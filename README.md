@@ -26,6 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
 Dribble.html
 
 <!DOCTYPE html>
@@ -132,7 +133,7 @@ Dribble.html
 </html>
         
     
-
+```
 
 ## OUTPUT:
 ![alt text](<WhatsApp Image 2025-10-16 at 09.10.14_cbc0625f.jpg>)
